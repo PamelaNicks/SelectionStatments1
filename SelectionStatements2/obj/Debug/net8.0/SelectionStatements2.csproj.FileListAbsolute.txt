@@ -1,0 +1,15 @@
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.AssemblyInfoInputs.cache
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.AssemblyInfo.cs
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.csproj.CoreCompileInputs.cache
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.sourcelink.json
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\bin\Debug\net8.0\SelectionStatements2.exe
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\bin\Debug\net8.0\SelectionStatements2.deps.json
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\bin\Debug\net8.0\SelectionStatements2.runtimeconfig.json
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\bin\Debug\net8.0\SelectionStatements2.dll
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\bin\Debug\net8.0\SelectionStatements2.pdb
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.dll
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\refint\SelectionStatements2.dll
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.pdb
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\SelectionStatements2.genruntimeconfig.cache
+C:\Users\pamel\source\repos\SelectionStatements2\SelectionStatements2\obj\Debug\net8.0\ref\SelectionStatements2.dll
