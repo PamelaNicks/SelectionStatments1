@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pamel\\source\\repos\\SelectionStatements2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44C85F-9342-4E74-AE2B-66DA1080A507}|SelectionStatements2\\SelectionStatements2.csproj|c:\\users\\pamel\\source\\repos\\selectionstatements2\\selectionstatements2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44C85F-9342-4E74-AE2B-66DA1080A507}|SelectionStatements2\\SelectionStatements2.csproj|solutionrelative:selectionstatements2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\source\\repos\\SelectionStatements2\\SelectionStatements2\\Program.cs",
+              "RelativeDocumentMoniker": "SelectionStatements2\\Program.cs",
+              "ToolTip": "C:\\Users\\pamel\\source\\repos\\SelectionStatements2\\SelectionStatements2\\Program.cs",
+              "RelativeToolTip": "SelectionStatements2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:14:52.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
